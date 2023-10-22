@@ -12,7 +12,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World! programming in C is fun .\n");
+  printf("Hello World! programming in C is fun . \n\n\n");
 
-  return 0;
+  return 0; 
 }
