@@ -1,7 +1,8 @@
 /**
- * Author: NAME
+ * Author: SHAHID HISAN 
  *         EMAIL
- * Date: 20xx/xx/xx
+ * shahidhisan2004@gmail.com
+ * Date: 22/10/2023
  *
  * A simple hello world program in C
  *
